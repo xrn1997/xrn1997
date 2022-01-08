@@ -5,7 +5,7 @@
 
 -->
 
-- :ant: I’m currently working on YSU502LAB.
+- :ant: I’m currently working on my graduate project.
 - :seedling: I’m currently learning deep learning,
 - :muscle: I used Android development and Spring development,Python development, Harmony development, HTML development.
 - :video_game:My favorite video games are LOL,APEX and GENSHIN IMAPCT.
