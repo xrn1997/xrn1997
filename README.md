@@ -13,7 +13,7 @@
 
 - :video_game:My favorite video games are LOL,APEX and GENSHIN IMAPCT.
 
-  <a href="https://genshin-card.getloli.com/"><img align="" alt="Genshin" src="https://genshin-card.getloli.com/detail/9-13,15-42,44-59/81191469.png"/></a>
+  <a href="https://genshin-card.himiku.com/"><img align="" alt="Genshin" src="https://genshin-card.himiku.com/detail/9-13,15-42,44-59/81191469.png"/></a>
 
 - :email:My email is 572249217@qq.com
 
