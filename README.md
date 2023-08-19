@@ -5,9 +5,9 @@
 
 -->
 
-- :ant: I’m currently working on my graduate project.
+- :ant: I'm graduating right away.
 
-- :seedling: I’m currently learning deep learning,
+- :seedling: I'm looking for a job,
 
 - :muscle: I used Android development and Spring development,Python development, Harmony development, HTML development.
 
