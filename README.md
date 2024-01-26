@@ -13,7 +13,7 @@
 
 - :video_game:My favorite video games are League of Legends,Genshin Impact and Honkai:Star Rail.
 
-  <a href="https://ys.himiku.com/"><img src="https://ys.himiku.com/{3-5,7,9,12-15}/{81191469}.png" alt="genshin-card" /></a>
+  <a href="https://ys.himiku.com/"><img src="https://ys.himiku.com/3-5,7,9,12-15/81191469.png" alt="genshin-card" /></a>
 
 - :email:My email is 572249217@qq.com
 
