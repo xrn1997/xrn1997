@@ -5,15 +5,15 @@
 
 -->
 
-- :ant: I'm graduating right away.
+- :ant: I've become a corporate slave.
 
-- :seedling: I'm looking for a job,
+- :seedling: I'm working hard to master all the skills required for my job,
 
-- :muscle: I used Android development and Spring development,Python development, Harmony development, HTML development.
+- :muscle: I'm currently an Android engineer.
 
-- :video_game:My favorite video games are LOL,APEX and GENSHIN IMAPCT.
+- :video_game:My favorite video games are League of Legends,Genshin Impact and Honkai:Star Rail.
 
-  <a href="https://genshin-card.himiku.com/"><img align="" alt="Genshin" src="https://genshin-card.himiku.com/detail/9-13,15-42,44-59/81191469.png"/></a>
+  <a href="https://ys.himiku.com/"><img src="https://ys.himiku.com/{3-5,7,9,12-15}/{81191469}.png" alt="genshin-card" /></a>
 
 - :email:My email is 572249217@qq.com
 
