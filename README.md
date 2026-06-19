@@ -1,22 +1,14 @@
-### Hi ,My Friend! 👋
+### Hi, My Friend! 👋
 
-<!--
-**xrn1997/xrn1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐜 日复一日，日拱一卒。
+- 🌱 正在努力掌握工作所需的全部技能。
+- 💪 目前是一名 Android 工程师。
+- 🎮 最喜欢的游戏是英雄联盟、原神和崩坏：星穹铁道。
 
--->
+  <a href="https://ys.himiku.com/">
+    <img src="https://ys.himiku.com/3-5,7,9,12-15/81191469.png" alt="genshin-card" />
+  </a>
 
-- :ant: Another day, another commit.
-
-- :seedling: I'm working hard to master all the skills required for my job,
-
-- :muscle: I'm currently an Android engineer.
-
-- :video_game:My favorite video games are League of Legends,Genshin Impact and Honkai:Star Rail.
-
-  <a href="https://ys.himiku.com/"><img src="https://ys.himiku.com/3-5,7,9,12-15/81191469.png" alt="genshin-card" /></a>
-
-- :email:My email is 572249217@qq.com
-
-- :eyes:My QQ is 572249217
-
-- :blush:Welcome to study and exchange together!
+- 📧 邮箱：572249217@qq.com
+- 👀 QQ：572249217
+- 😊 欢迎一起学习交流！
